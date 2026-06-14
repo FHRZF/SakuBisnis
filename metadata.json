@@ -1,0 +1,6 @@
+{
+  "name": "SakuBisnis",
+  "description": "An interactive, unified mobile ERP dashboard featuring inventory, analytics, and order management with customizable drag-and-drop components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
